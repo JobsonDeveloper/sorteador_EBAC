@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://sorteador-mu-one.vercel.app/)
 
 ### Ferramentas utiliizadas:
