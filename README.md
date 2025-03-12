@@ -2,7 +2,7 @@
 [Veja o site](https://sorteador-mu-one.vercel.app/)
 
 ### Ferramentas utiliizadas:
-[![My Skills](https://skillicons.dev/icons?i=html,less,js,grunt,git,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,less,js,git,vercel)](https://skillicons.dev)
 
 ### Lista completa:
 HTML | Less | JavaScript | Grunt | Git | Vercel
